@@ -33,7 +33,7 @@
 <br/>  
 
 
-## Languages and Tools  
+## Языки и инструменты 
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
@@ -63,7 +63,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=IMBA-Dev&&style=flat-square)  
   
 
 <br/>  
@@ -72,4 +72,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
