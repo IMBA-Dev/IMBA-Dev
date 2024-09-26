@@ -50,15 +50,8 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IMBA-Dev&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMBA-Dev&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
-
-</td></tr></table>  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMBA-Dev&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
